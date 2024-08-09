@@ -8,5 +8,17 @@ Technologies I used...
   Mysql
   Ajax
 
+
+
+  To set up and install this application: 
+1. Clone the repository.
+2. Set up the back-end dependencies.
+3. Configure the database.
+4. Deploy the JavaEE application on the Apache Tomcat.
+
+
+Licence
+
+This project is corvered by the MIT License.
   
   
